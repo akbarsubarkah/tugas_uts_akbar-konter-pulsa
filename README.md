@@ -47,7 +47,9 @@ E. Screenshot Halaman Utama
 
 ![transaksi](transaksi.png)
 
-![daftar harga](daftar harga.png)
+![nama gambar](URL_GAMBAR)
+
+
 
 
 
