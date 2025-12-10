@@ -43,9 +43,11 @@ Lihat status di halaman Riwayat Transaksi untuk memastikan berhasil.
 E. Screenshot Halaman Utama
 ![login](login.png)
 ![beranda](beranda.png)
-![proses isi nomor](proses isi nomor.png).
-![beranda](beranda.png)
-![beranda](beranda.png)
+![login](login.png)
+![login](login.png)
+![login](login.png)
+
+
 
 
 
