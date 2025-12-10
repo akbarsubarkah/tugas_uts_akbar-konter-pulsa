@@ -40,7 +40,9 @@ Transaksi akan diproses menggunakan saldo deposit.
 7. Cek Status Transaksi
 Lihat status di halaman Riwayat Transaksi untuk memastikan berhasil.
 
-E. Screenshot Halaman Utama ![login]()
+E. Screenshot Halaman Utama ![login](login.png) ![nama gambar](URL_GAMBAR)
+
+
 
 
 
