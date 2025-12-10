@@ -45,11 +45,7 @@ E. Screenshot Halaman Utama
 
 ![beranda](beranda.png)
 
-![isi nomor](proses isi nomor.png)
-
-![login](login.png)
-
-![login](login.png)
+![nama gambar](URL_GAMBAR)
 
 
 
