@@ -47,7 +47,8 @@ E. Screenshot Halaman Utama
 
 ![transaksi](transaksi.png)
 
-![nama gambar](URL_GAMBAR)
+![nama gambar](struk transaksi.png)
+
 
 
 
