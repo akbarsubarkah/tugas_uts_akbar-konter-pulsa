@@ -45,7 +45,8 @@ E. Screenshot Halaman Utama
 
 ![beranda](beranda.png)
 
-![proses isi nomor](proses isi nomor.png)
+![transaksi](transaksi.png)
+
 
 
 
