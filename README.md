@@ -17,7 +17,7 @@ C. Fitur
 - Riwayat Transaksi
 - Laporan Penjualan
 - Manajemen Saldo / Deposit
-- 
+  
 D. Cara Menjalankan
 1. Registrasi & Login
 Buat akun baru menggunakan nomor HP atau email.
@@ -41,4 +41,5 @@ Transaksi akan diproses menggunakan saldo deposit.
 Lihat status di halaman Riwayat Transaksi untuk memastikan berhasil.
 
 E. Screenshot Halaman Utama
+
 
